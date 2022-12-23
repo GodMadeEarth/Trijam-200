@@ -64,6 +64,7 @@ texture = ExtResource( 6 )
 position = Vector2( 1517, -2.69794 )
 rotation = 3.13586
 texture = ExtResource( 6 )
+flip_v = true
 
 [node name="Bluebird-midflap" type="Sprite" parent="."]
 position = Vector2( -95, -197 )
